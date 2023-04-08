@@ -8,8 +8,6 @@ struct <name_of_structure>
 {
 
 <variable declaration>;                                \\ before main
+};
 
-  };
-
-  
-  struct <name_of_structure><name_of_variable>;           \\ can be declared inside main
+struct <name_of_structure><name_of_variable>;           \\ can be declared inside main
