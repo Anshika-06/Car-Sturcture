@@ -1,4 +1,4 @@
-# Sturcture
+# Structure
 Structure in c is a user-defined data type that enables us to store the collection of different data types. Each element of a structure is called a member.
 Structures ca; simulate the use of classes and templates as it can store various information
 The ,struct keyword is used to define the structure.
